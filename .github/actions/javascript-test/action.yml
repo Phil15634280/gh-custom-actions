@@ -1,0 +1,4 @@
+name: 'Test Js Action'
+runs:
+  using: 'node20'
+  main: 'main.js'
